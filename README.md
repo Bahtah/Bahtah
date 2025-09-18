@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Привет, я Baktiyar  
 
-<!--
-**Bahtah/Bahtah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 О себе
+- 🐍 Backend-разработчик (Python/Django, DRF, Celery)  
+- ⚡ Опыт с вебхуками, асинхронными задачами и API  
+- 🧪 Люблю писать тесты (pytest, автотесты REST API)  
+- 🚀 Интересуюсь деплоем и автоматизацией (Docker, CI/CD)  
 
-Here are some ideas to get you started:
+### 🔧 Навыки и технологии
+- **Backend:** Python, Django, DRF, Celery  
+- **Базы данных:** PostgreSQL, Redis  
+- **Инфраструктура:** Docker, GitHub Actions (CI/CD), Linux, Nginx  
+- **Frontend (базово):** HTML, CSS, JS  
+- **Инструменты:** Git, Pytest, VS Code / PyCharm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты
+- 📧 Email: *btolikov@gmail.com*  
+- 💬 Telegram:(https://t.me/@bah_ty)  
+- 💼 LinkedIn: **  
+
