@@ -16,5 +16,7 @@
 ### 📫 Контакты
 - 📧 Email: *btolikov@gmail.com*  
 - 💬 Telegram:(https://t.me/@bah_ty)  
-- 💼 LinkedIn: **  
+- 💼 LinkedIn: **
+
+- 
 
